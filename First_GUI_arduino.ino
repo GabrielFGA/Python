@@ -24,7 +24,6 @@ void loop() {
       b=0;
     }
   }    
-  //exec();
   roda();
 }
 
